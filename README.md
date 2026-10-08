@@ -1,27 +1,98 @@
-<h1 align="center">Hi 👋, I'm Vinit</h1>
-<h3 align="center">A passionate software developer from India</h3>
+# Hi, I'm Vinit Karkera 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vnt1998&label=Profile%20views&color=0e75b6&style=flat" alt="vnt1998" /> </p>
+### AI Engineer · MLOps · Backend · Agentic AI
 
-- 💬 Ask me about **Flutter Dart**
+I build production-oriented AI systems and backend services, with a focus on **LLM applications, RAG, agentic workflows, ML pipelines, and scalable APIs**.
 
-- 📫 How to reach me **vinitcalpha@outlook.com**
+I enjoy taking an idea from **prototype → evaluated system → deployable service** and working across the layers required to make it reliable.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/vnt1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vnt1998" height="30" width="40" /></a>
-<a href="https://twitter.com/karkera_vinit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karkera_vinit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vinitkarkera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinitkarkera" height="30" width="40" /></a>
-<a href="https://dribbble.com/vnt1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vnt1998" height="30" width="40" /></a>
-<a href="https://medium.com/@vinitcalpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vinitcalpha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vinitcalpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinitcalpha" height="30" width="40" /></a>
+## 🚀 What I Work On
+
+- 🤖 **Generative & Agentic AI** — LangChain, LangGraph, tool calling, structured outputs, agent workflows
+- 🔎 **RAG Systems** — retrieval pipelines, evaluation, reranking, grounding, and observability
+- 🧠 **AI/ML Engineering** — model serving, evaluation, experimentation, and production workflows
+- ⚙️ **MLOps** — MLflow, model validation, experiment tracking, CI/CD, Docker, monitoring
+- 🏗️ **Backend Engineering** — Python, FastAPI, Node.js, TypeScript, REST APIs, PostgreSQL/Supabase
+- ☁️ **Infrastructure** — Docker, Kubernetes, Terraform, Linux, cloud deployment
+- 📊 **LLM Evaluation & Observability** — LangSmith, Langfuse, RAGAS, DeepEval
+
+---
+
+## ⭐ Featured Work
+
+### 🩺 Medical AI Platform
+Building an AI-powered workflow for extracting information from blood reports and generating grounded medical insights.
+
+**Focus:** document processing · structured extraction · MedGemma · RAG · evaluation · safety · observability
+
+### ⚙️ Production MLOps Pipeline
+A hands-on ML lifecycle demonstrating training, experiment tracking, model evaluation, validation gates, and production model management.
+
+**Stack:** Python · scikit-learn · MLflow · Docker · FastAPI · CI/CD
+
+### 🤖 Agentic AI Systems
+Building agentic workflows with stateful orchestration, tools, memory, structured outputs, retries, evaluation, and human-in-the-loop patterns.
+
+**Stack:** LangGraph · LangChain · MCP · Python
+
+### 🔎 RAG & LLM Evaluation
+Exploring production-grade RAG architectures with retrieval strategies, reranking, evaluation datasets, tracing, and observability.
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / ML**
+`Python` `PyTorch` `scikit-learn` `Hugging Face` `LangChain` `LangGraph` `RAG` `MLflow`
+
+**LLM Engineering**
+`Agentic AI` `RAG` `MCP` `Prompt Engineering` `Context Engineering` `LangSmith` `Langfuse` `RAGAS` `DeepEval`
+
+**Backend**
+`FastAPI` `Node.js` `Express` `TypeScript` `PostgreSQL` `Supabase` `REST APIs`
+
+**DevOps / Infrastructure**
+`Docker` `Kubernetes` `Terraform` `GitHub Actions` `Linux`
+
+**Frontend / Mobile**
+`React` `React Native` `Flutter` `Dart`
+
+---
+
+## 📌 Selected Repositories
+
+- **[yt_prompt](https://github.com/VNT1998/yt_prompt)** — YouTube transcript extraction and prompt-generation tooling
+- **[Trackie](https://github.com/VNT1998/Trackie)** — React Native application with offline-first data and API integration
+- **[LeetCode](https://github.com/VNT1998/LeetCode)** — Data structures and algorithm practice
+
+More projects are being actively developed around **AI engineering, MLOps, RAG, and backend systems**.
+
+---
+
+## 📈 GitHub Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=VNT1998&show_icons=true&hide_border=true&rank_icon=github" alt="Vinit's GitHub statistics" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VNT1998&layout=compact&hide_border=true&langs_count=8" alt="Vinit's most used languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnt1998&show_icons=true&locale=en&layout=compact" alt="vnt1998" /></p>
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/vinitkarkera)
+- 💻 [GitHub](https://github.com/VNT1998)
+- 🧩 [LeetCode](https://leetcode.com/vinitcalpha)
+- ✍️ [Medium](https://medium.com/@vinitcalpha)
+- 📝 [Dev.to](https://dev.to/vnt1998)
+
+📫 **Email:** vinitcalpha@outlook.com
+
+---
+
+> **Currently focused on:** building reliable AI systems that combine strong software engineering with practical LLM, MLOps, and backend architecture.
