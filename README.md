@@ -8,10 +8,31 @@ I enjoy taking an idea from **prototype → evaluated system → deployable serv
 
 ---
 
-## 🚀 What I Work On
+## ⭐ Featured Projects
 
-- 🤖 **Generative & Agentic AI** — LangChain, LangGraph, tool calling, structured outputs, agent workflows
-- 🔎 **RAG Systems** — retrieval pipelines, evaluation, reranking, grounding, and observability
+### [OpsPilot AI — Enterprise Document & Workflow Agent Platform](https://github.com/VNT1998/opspilot-ai)
+An agentic workflow platform focused on accounts-payable invoice processing: document extraction, deterministic invoice-to-PO validation, policy retrieval, human review, and auditable workflow actions.
+
+**Stack:** Python · FastAPI · React · LangGraph · PostgreSQL · Redis Streams · Docker
+
+### [Nuvorix — AI/ML Production Platform](https://github.com/VNT1998/nuvorix)
+A self-service AI/ML platform concept covering workload management, model training, RAG, evaluation gates, deployments, rollback controls, LLM usage tracking, and observability.
+
+**Stack:** Python · FastAPI · React · MLflow · PostgreSQL/pgvector · OpenTelemetry · Docker · Kubernetes
+
+### [BetterLife — Clinical Evidence Intelligence](https://github.com/VNT1998/better-life)
+A healthcare AI prototype for structured laboratory-result extraction, provenance-aware findings, longitudinal biomarker timelines, guideline retrieval, and deterministic safety checks.
+
+**Stack:** Python · FastAPI · React · Ollama · SQLAlchemy · PostgreSQL/pgvector · Docker
+
+*BetterLife is a prototype evaluated with synthetic cases; it is not clinically validated and is not intended to diagnose or replace professional medical care.*
+
+---
+
+## 🚀 Areas I Work On
+
+- 🤖 **Generative & Agentic AI** — LangChain, LangGraph, tool calling, structured outputs, human-in-the-loop workflows
+- 🔎 **RAG Systems** — retrieval, ranking, grounding, citation quality, and evaluation
 - 🧠 **AI/ML Engineering** — model serving, evaluation, experimentation, and production workflows
 - ⚙️ **MLOps** — MLflow, model validation, experiment tracking, CI/CD, Docker, monitoring
 - 🏗️ **Backend Engineering** — Python, FastAPI, Node.js, TypeScript, REST APIs, PostgreSQL/Supabase
@@ -20,54 +41,32 @@ I enjoy taking an idea from **prototype → evaluated system → deployable serv
 
 ---
 
-## ⭐ Featured Work
-
-### 🩺 Medical AI Platform
-Building an AI-powered workflow for extracting information from blood reports and generating grounded medical insights.
-
-**Focus:** document processing · structured extraction · MedGemma · RAG · evaluation · safety · observability
-
-### ⚙️ Production MLOps Pipeline
-A hands-on ML lifecycle demonstrating training, experiment tracking, model evaluation, validation gates, and production model management.
-
-**Stack:** Python · scikit-learn · MLflow · Docker · FastAPI · CI/CD
-
-### 🤖 Agentic AI Systems
-Building agentic workflows with stateful orchestration, tools, memory, structured outputs, retries, evaluation, and human-in-the-loop patterns.
-
-**Stack:** LangGraph · LangChain · MCP · Python
-
-### 🔎 RAG & LLM Evaluation
-Exploring production-grade RAG architectures with retrieval strategies, reranking, evaluation datasets, tracing, and observability.
-
----
-
 ## 🛠️ Tech Stack
 
-**AI / ML**
+**AI / ML**  
 `Python` `PyTorch` `scikit-learn` `Hugging Face` `LangChain` `LangGraph` `RAG` `MLflow`
 
-**LLM Engineering**
-`Agentic AI` `RAG` `MCP` `Prompt Engineering` `Context Engineering` `LangSmith` `Langfuse` `RAGAS` `DeepEval`
+**LLM Engineering**  
+`Agentic AI` `MCP` `Prompt Engineering` `Context Engineering` `LangSmith` `Langfuse` `RAGAS` `DeepEval`
 
-**Backend**
+**Backend**  
 `FastAPI` `Node.js` `Express` `TypeScript` `PostgreSQL` `Supabase` `REST APIs`
 
-**DevOps / Infrastructure**
+**DevOps / Infrastructure**  
 `Docker` `Kubernetes` `Terraform` `GitHub Actions` `Linux`
 
-**Frontend / Mobile**
+**Frontend / Mobile**  
 `React` `React Native` `Flutter` `Dart`
 
 ---
 
 ## 📌 Selected Repositories
 
-- **[yt_prompt](https://github.com/VNT1998/yt_prompt)** — YouTube transcript extraction and prompt-generation tooling
-- **[Trackie](https://github.com/VNT1998/Trackie)** — React Native application with offline-first data and API integration
-- **[LeetCode](https://github.com/VNT1998/LeetCode)** — Data structures and algorithm practice
-
-More projects are being actively developed around **AI engineering, MLOps, RAG, and backend systems**.
+- [**OpsPilot AI**](https://github.com/VNT1998/opspilot-ai) — agentic document processing and auditable business workflows
+- [**Nuvorix**](https://github.com/VNT1998/nuvorix) — AI/ML workload lifecycle, evaluation gates, and platform operations
+- [**BetterLife**](https://github.com/VNT1998/better-life) — clinical document intelligence prototype with evidence retrieval and timeline analysis
+- [**mlops-demo**](https://github.com/VNT1998/mlops-demo) — model training, MLflow tracking, and model validation workflow
+- [**Generative_AI_using_LangChain**](https://github.com/VNT1998/Generative_AI_using_LangChain) · [**Agentic_AI_using_LangGraph**](https://github.com/VNT1998/Agentic_AI_using_LangGraph) — learning references and implementation examples
 
 ---
 
